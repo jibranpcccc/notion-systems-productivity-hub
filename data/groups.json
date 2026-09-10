@@ -1,16 +1,16 @@
 [
   {
     "id": "notion-systems-second-brain-hub-reddit-1",
-    "title": "r/MachineLearning Research",
+    "title": "r/Notion Database Architecture & Templates",
     "platform": "Reddit",
-    "category": "Machine Learning",
-    "memberCount": "2,900,000+ members",
-    "description": "Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.",
-    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
+    "category": "Notion",
+    "memberCount": "320,000+ members",
+    "description": "The premier community for Notion power users: Formula 2.0, relational databases, rollups, and dashboard design.",
+    "joinUrl": "https://www.reddit.com/r/Notion/",
     "tags": [
-      "machine-learning",
-      "ai",
-      "research",
+      "notion",
+      "databases",
+      "productivity",
       "reddit"
     ],
     "verified": true,
@@ -18,16 +18,16 @@
   },
   {
     "id": "notion-systems-second-brain-hub-reddit-2",
-    "title": "r/LocalLLaMA Open Models",
+    "title": "r/ObsidianMD Markdown Knowledge Graphs",
     "platform": "Reddit",
-    "category": "Large Language Models",
-    "memberCount": "260,000+ members",
-    "description": "Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.",
-    "joinUrl": "https://www.reddit.com/r/LocalLLaMA/",
+    "category": "Obsidian",
+    "memberCount": "190,000+ members",
+    "description": "Local-first knowledge bases, Dataview queries, graph view navigation, canvas layouts, and community plugins.",
+    "joinUrl": "https://www.reddit.com/r/ObsidianMD/",
     "tags": [
-      "localllama",
-      "ai",
-      "open-source",
+      "obsidian",
+      "markdown",
+      "pkm",
       "reddit"
     ],
     "verified": true,
@@ -35,186 +35,185 @@
   },
   {
     "id": "notion-systems-second-brain-hub-reddit-3",
-    "title": "r/ChatGPT AI Community",
+    "title": "r/productivity Workflow Optimization",
     "platform": "Reddit",
-    "category": "Generative AI",
-    "memberCount": "6,100,000+ members",
-    "description": "Vibrant discussion forum on OpenAI ChatGPT updates, prompt engineering strategies, custom GPTs, and creative workflows.",
-    "joinUrl": "https://www.reddit.com/r/ChatGPT/",
+    "category": "Productivity",
+    "memberCount": "2,800,000+ members",
+    "description": "Time blocking frameworks, task prioritization systems, deep work strategies, and personal operating models.",
+    "joinUrl": "https://www.reddit.com/r/productivity/",
     "tags": [
-      "chatgpt",
-      "openai",
-      "prompts",
+      "productivity",
+      "time-blocking",
+      "habits",
       "reddit"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "notion-systems-second-brain-hub-discord-4",
-    "title": "OpenAI Official Discord",
-    "platform": "Discord",
-    "category": "Generative AI",
-    "memberCount": "550,000+ members",
-    "description": "Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.",
-    "joinUrl": "https://discord.gg/openai",
-    "tags": [
-      "openai",
-      "chatgpt",
-      "api",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-discord-5",
-    "title": "Midjourney Official Discord",
-    "platform": "Discord",
-    "category": "Creative AI & Art",
-    "memberCount": "16,000,000+ members",
-    "description": "The largest generative art community in the world, featuring real-time image prompting, stylistic feedback, and gallery showcases.",
-    "joinUrl": "https://discord.gg/midjourney",
-    "tags": [
-      "midjourney",
-      "ai-art",
-      "prompts",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-discord-6",
-    "title": "Hugging Face Community Discord",
-    "platform": "Discord",
-    "category": "Open Source AI",
-    "memberCount": "140,000+ members",
-    "description": "Hub for the open-source AI community discussing Transformers, Diffusers, model weights, and Hugging Face Spaces.",
-    "joinUrl": "https://discord.gg/huggingface",
-    "tags": [
-      "huggingface",
-      "transformers",
-      "open-source",
-      "discord"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-reddit-7",
-    "title": "r/Midjourney Prompt Engineering",
+    "id": "notion-systems-second-brain-hub-reddit-4",
+    "title": "r/PKMS Personal Knowledge Management",
     "platform": "Reddit",
-    "category": "Creative AI & Art",
-    "memberCount": "1,300,000+ members",
-    "description": "Curated community sharing Midjourney prompt formulas, lighting styles, camera parameters, and generative showcases.",
-    "joinUrl": "https://www.reddit.com/r/Midjourney/",
+    "category": "PKM",
+    "memberCount": "60,000+ members",
+    "description": "Second Brain principles, Zettelkasten card index method, progressive summarization, and digital archiving.",
+    "joinUrl": "https://www.reddit.com/r/PKMS/",
     "tags": [
-      "midjourney",
-      "prompts",
-      "ai-art",
+      "pkm",
+      "second-brain",
+      "zettelkasten",
       "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-reddit-5",
+    "title": "r/GetOrganized Daily Routines & Systems",
+    "platform": "Reddit",
+    "category": "Organization",
+    "memberCount": "280,000+ members",
+    "description": "Practical organization strategies, physical and digital decluttering, filing hierarchies, and routines.",
+    "joinUrl": "https://www.reddit.com/r/GetOrganized/",
+    "tags": [
+      "organization",
+      "routines",
+      "systems",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-reddit-6",
+    "title": "r/Anki Spaced Repetition & Retention",
+    "platform": "Reddit",
+    "category": "Anki",
+    "memberCount": "180,000+ members",
+    "description": "Spaced repetition algorithms (SM-2, FSRS), cloze deletion strategies, flashcard automation, and retention science.",
+    "joinUrl": "https://www.reddit.com/r/Anki/",
+    "tags": [
+      "anki",
+      "spaced-repetition",
+      "learning",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-forum-7",
+    "title": "Obsidian Official Community Forum",
+    "platform": "Forum",
+    "category": "Obsidian",
+    "memberCount": "120,000+ members",
+    "description": "Official forum for Obsidian developers, theme designers, feature requests, and workflow showcases.",
+    "joinUrl": "https://forum.obsidian.md",
+    "tags": [
+      "obsidian",
+      "plugins",
+      "official",
+      "forum"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "notion-systems-second-brain-hub-reddit-8",
-    "title": "r/StableDiffusion Local Art",
+    "title": "r/zapier Automated Workflow Pipelines",
     "platform": "Reddit",
-    "category": "Creative AI & Art",
-    "memberCount": "480,000+ members",
-    "description": "Community dedicated to Stable Diffusion checkpoints, LoRAs, ComfyUI workflows, ControlNet, and SDXL rendering.",
-    "joinUrl": "https://www.reddit.com/r/StableDiffusion/",
+    "category": "Zapier",
+    "memberCount": "25,000+ members",
+    "description": "Multi-step webhooks, API filtering, automated database syncs between Notion, Airtable, and Slack.",
+    "joinUrl": "https://www.reddit.com/r/zapier/",
     "tags": [
-      "stablediffusion",
-      "comfyui",
-      "ai-art",
+      "zapier",
+      "automation",
+      "webhooks",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "notion-systems-second-brain-hub-telegram-9",
-    "title": "AI Insights & Research Feed",
-    "platform": "Telegram",
-    "category": "AI Research",
-    "memberCount": "72,000+ members",
-    "description": "Fast-paced updates on frontier AI model releases, arXiv research papers, multimodal benchmarks, and open weights.",
-    "joinUrl": "https://t.me/ai_insights",
-    "tags": [
-      "ai",
-      "research",
-      "telegram",
-      "models"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-telegram-10",
-    "title": "Machine Learning Digest Channel",
-    "platform": "Telegram",
-    "category": "Machine Learning",
-    "memberCount": "58,000+ members",
-    "description": "Daily curated breakdown of machine learning algorithms, deep learning implementations, and neural net research.",
-    "joinUrl": "https://t.me/machinelearning_digest",
-    "tags": [
-      "machine-learning",
-      "telegram",
-      "digest",
-      "deep-learning"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-reddit-11",
-    "title": "r/PromptEngineering Elite",
+    "id": "notion-systems-second-brain-hub-reddit-9",
+    "title": "r/nocode Visual App & Portal Builders",
     "platform": "Reddit",
-    "category": "Prompt Engineering",
-    "memberCount": "110,000+ members",
-    "description": "Systematic discussion of prompt architecture, few-shot conditioning, chain-of-thought methods, and agentic workflows.",
-    "joinUrl": "https://www.reddit.com/r/PromptEngineering/",
+    "category": "No-Code",
+    "memberCount": "90,000+ members",
+    "description": "Building client portals, internal dashboards, and automated business tools without writing code.",
+    "joinUrl": "https://www.reddit.com/r/nocode/",
     "tags": [
-      "prompts",
-      "llm",
-      "agents",
+      "nocode",
+      "portals",
+      "tools",
       "reddit"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "notion-systems-second-brain-hub-reddit-12",
-    "title": "r/ClaudeAI Anthropic Community",
+    "id": "notion-systems-second-brain-hub-reddit-10",
+    "title": "r/gtd Getting Things Done Framework",
     "platform": "Reddit",
-    "category": "Large Language Models",
-    "memberCount": "95,000+ members",
-    "description": "Community focused on Anthropic's Claude models, Sonnet coding workflows, artifacts, and long-context capabilities.",
-    "joinUrl": "https://www.reddit.com/r/ClaudeAI/",
+    "category": "GTD",
+    "memberCount": "85,000+ members",
+    "description": "David Allen's GTD methodology: inbox zero, weekly reviews, context tagging, and project action lists.",
+    "joinUrl": "https://www.reddit.com/r/gtd/",
     "tags": [
-      "claude",
-      "anthropic",
-      "llm",
+      "gtd",
+      "inbox-zero",
+      "action-lists",
       "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-discord-11",
+    "title": "The Programmer's Hangout Discord",
+    "platform": "Discord",
+    "category": "Programming",
+    "memberCount": "220,000+ members",
+    "description": "Multi-language developer Discord with dedicated productivity, tooling, and editor setup channels.",
+    "joinUrl": "https://discord.gg/programming",
+    "tags": [
+      "programming",
+      "tooling",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-discord-12",
+    "title": "Devcord Productivity & Code Discord",
+    "platform": "Discord",
+    "category": "Devcord",
+    "memberCount": "75,000+ members",
+    "description": "Active community of developers sharing IDE extensions, dotfiles, productivity setups, and scripts.",
+    "joinUrl": "https://discord.gg/devcord",
+    "tags": [
+      "devcord",
+      "dotfiles",
+      "extensions",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
     "id": "notion-systems-second-brain-hub-discord-13",
-    "title": "Anthropic Claude Discord",
+    "title": "Pegasus Systems & Founders Discord",
     "platform": "Discord",
-    "category": "Large Language Models",
-    "memberCount": "62,000+ members",
-    "description": "Community server discussing Claude API integrations, prompt techniques, and AI safety evaluations.",
-    "joinUrl": "https://discord.gg/anthropic",
+    "category": "Founders",
+    "memberCount": "45,000+ members",
+    "description": "Digital operators sharing executive Notion operating systems, agency client dashboards, and SOPs.",
+    "joinUrl": "https://discord.gg/entrepreneur",
     "tags": [
-      "claude",
-      "anthropic",
-      "api",
+      "founders",
+      "dashboards",
+      "sops",
       "discord"
     ],
     "verified": true,
@@ -222,16 +221,16 @@
   },
   {
     "id": "notion-systems-second-brain-hub-discord-14",
-    "title": "LangChain Official Discord",
+    "title": "Businesscord Operations & Dashboards",
     "platform": "Discord",
-    "category": "AI Engineering",
-    "memberCount": "80,000+ members",
-    "description": "Community dedicated to building LLM applications with LangChain, LangSmith, and LangGraph agent architectures.",
-    "joinUrl": "https://discord.gg/langchain",
+    "category": "Business",
+    "memberCount": "35,000+ members",
+    "description": "Corporate productivity, KPI dashboards, project management systems, and team collaboration.",
+    "joinUrl": "https://discord.gg/business",
     "tags": [
-      "langchain",
-      "agents",
-      "ai",
+      "business",
+      "kpis",
+      "management",
       "discord"
     ],
     "verified": true,
@@ -239,272 +238,271 @@
   },
   {
     "id": "notion-systems-second-brain-hub-forum-15",
-    "title": "Hugging Face Community Forums",
+    "title": "Product Hunt Productivity Tools Launch",
     "platform": "Forum",
-    "category": "Open Source AI",
-    "memberCount": "500,000+ members",
-    "description": "Official forum for open-source AI researchers, fine-tuning checkpoints, tokenizers, and PyTorch models.",
-    "joinUrl": "https://discuss.huggingface.co",
+    "category": "Product Hunt",
+    "memberCount": "950,000+ members",
+    "description": "Discover and review the latest personal productivity apps, second brain tools, and browser extensions.",
+    "joinUrl": "https://www.producthunt.com",
     "tags": [
-      "huggingface",
-      "forum",
-      "transformers",
-      "pytorch"
+      "producthunt",
+      "apps",
+      "extensions",
+      "forum"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "notion-systems-second-brain-hub-github-16",
-    "title": "PyTorch GitHub Discussions",
-    "platform": "GitHub",
-    "category": "Machine Learning",
-    "memberCount": "90,000+ contributors",
-    "description": "Official PyTorch open-source discussions on CUDA acceleration, model architectures, and compiler backends.",
-    "joinUrl": "https://github.com/pytorch/pytorch/discussions",
+    "id": "notion-systems-second-brain-hub-forum-16",
+    "title": "Hacker News Productivity & Systems",
+    "platform": "Forum",
+    "category": "Hacker News",
+    "memberCount": "5,000,000+ members",
+    "description": "High-signal discussions on note-taking architecture, plain text workflows, and digital minimalism.",
+    "joinUrl": "https://news.ycombinator.com",
     "tags": [
-      "pytorch",
-      "github",
-      "deep-learning",
-      "cuda"
+      "ycombinator",
+      "minimalism",
+      "workflows",
+      "forum"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "notion-systems-second-brain-hub-forum-17",
-    "title": "OpenAI Developer Forum",
-    "platform": "Forum",
-    "category": "Generative AI",
-    "memberCount": "400,000+ members",
-    "description": "Official developer forum for troubleshooting OpenAI API endpoints, fine-tuning jobs, and function calling.",
-    "joinUrl": "https://community.openai.com",
+    "id": "notion-systems-second-brain-hub-reddit-17",
+    "title": "r/ChatGPT Productivity & Prompt Workflows",
+    "platform": "Reddit",
+    "category": "ChatGPT",
+    "memberCount": "6,500,000+ members",
+    "description": "Using custom GPTs, automated task generation, and prompt chains to supercharge personal productivity.",
+    "joinUrl": "https://www.reddit.com/r/ChatGPT/",
+    "tags": [
+      "chatgpt",
+      "automation",
+      "prompts",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-reddit-18",
+    "title": "r/PromptEngineering Knowledge Structuring",
+    "platform": "Reddit",
+    "category": "Prompting",
+    "memberCount": "140,000+ members",
+    "description": "Prompting techniques for synthesising lengthy meeting notes, formatting tables, and database extraction.",
+    "joinUrl": "https://www.reddit.com/r/PromptEngineering/",
+    "tags": [
+      "prompting",
+      "summarization",
+      "tables",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-discord-19",
+    "title": "OpenAI Workflow Automation Discord",
+    "platform": "Discord",
+    "category": "OpenAI",
+    "memberCount": "200,000+ members",
+    "description": "Developers connecting LLM APIs to Notion, Obsidian, Google Sheets, and personal knowledge bases.",
+    "joinUrl": "https://discord.gg/openai",
     "tags": [
       "openai",
-      "forum",
       "api",
-      "gpt-4"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-forum-18",
-    "title": "Kaggle Data & AI Discussions",
-    "platform": "Forum",
-    "category": "Data Science & AI",
-    "memberCount": "1,500,000+ members",
-    "description": "Global competitions, notebook implementations, and deep-dive methodology discussions for ML practitioners.",
-    "joinUrl": "https://www.kaggle.com/discussion",
-    "tags": [
-      "kaggle",
-      "machine-learning",
-      "forum",
-      "competitions"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-reddit-19",
-    "title": "r/Python Developer Community",
-    "platform": "Reddit",
-    "category": "Python Development",
-    "memberCount": "1,250,000+ members",
-    "description": "The premier community for Python engineers, covering news, PEP proposals, open-source packages, and architecture discussions.",
-    "joinUrl": "https://www.reddit.com/r/Python/",
-    "tags": [
-      "python",
-      "backend",
-      "software-engineering",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-discord-20",
-    "title": "Python Official Discord",
-    "platform": "Discord",
-    "category": "Python Development",
-    "memberCount": "430,000+ members",
-    "description": "Active real-time developer server for Python help, code reviews, algorithmic design, and package development.",
-    "joinUrl": "https://discord.gg/python",
-    "tags": [
-      "python",
-      "discord",
-      "code-review",
-      "programming"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-telegram-21",
-    "title": "Python Developers Telegram Channel",
-    "platform": "Telegram",
-    "category": "Python Development",
-    "memberCount": "85,000+ members",
-    "description": "Curated daily Python scripts, architectural patterns, release alerts, and performance optimization guides.",
-    "joinUrl": "https://t.me/python_scripts",
-    "tags": [
-      "python",
-      "telegram",
-      "scripts",
-      "tips"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-reddit-22",
-    "title": "r/programming International",
-    "platform": "Reddit",
-    "category": "General Programming",
-    "memberCount": "5,800,000+ members",
-    "description": "Major international hub for computer programming discussions, industry insights, and software development trends.",
-    "joinUrl": "https://www.reddit.com/r/programming/",
-    "tags": [
-      "programming",
-      "engineering",
-      "industry",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-discord-23",
-    "title": "The Programmer's Hangout",
-    "platform": "Discord",
-    "category": "Software Engineering",
-    "memberCount": "220,000+ members",
-    "description": "A collaborative multi-language developer Discord covering architecture, algorithms, career advice, and live coding.",
-    "joinUrl": "https://discord.gg/theprogrammershangout",
-    "tags": [
-      "programming",
-      "multi-language",
-      "discord",
-      "career"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-reddit-24",
-    "title": "r/rust Systems Programming",
-    "platform": "Reddit",
-    "category": "Systems Programming",
-    "memberCount": "280,000+ members",
-    "description": "Dedicated community for the Rust programming language focusing on memory safety, concurrency, and high-performance systems.",
-    "joinUrl": "https://www.reddit.com/r/rust/",
-    "tags": [
-      "rust",
-      "systems",
-      "concurrency",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-discord-25",
-    "title": "Rust Programming Language Discord",
-    "platform": "Discord",
-    "category": "Systems Programming",
-    "memberCount": "95,000+ members",
-    "description": "Official community Discord server for the Rust programming language with dedicated channels for crates, async, and compiler work.",
-    "joinUrl": "https://discord.gg/rust-lang",
-    "tags": [
-      "rust",
-      "systems",
-      "discord",
-      "compiler"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-telegram-26",
-    "title": "Rust Language News & Updates",
-    "platform": "Telegram",
-    "category": "Systems Programming",
-    "memberCount": "32,000+ members",
-    "description": "Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.",
-    "joinUrl": "https://t.me/rust_lang_news",
-    "tags": [
-      "rust",
-      "telegram",
-      "systems",
-      "updates"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-reddit-27",
-    "title": "r/javascript Global Hub",
-    "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,400,000+ members",
-    "description": "Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.",
-    "joinUrl": "https://www.reddit.com/r/javascript/",
-    "tags": [
-      "javascript",
-      "webdev",
-      "frontend",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "notion-systems-second-brain-hub-discord-28",
-    "title": "Reactiflux Discord Community",
-    "platform": "Discord",
-    "category": "Frontend Engineering",
-    "memberCount": "210,000+ members",
-    "description": "The largest community of React, React Native, and full-stack JavaScript developers on Discord.",
-    "joinUrl": "https://discord.gg/reactiflux",
-    "tags": [
-      "react",
-      "frontend",
-      "javascript",
+      "integration",
       "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "notion-systems-second-brain-hub-telegram-29",
-    "title": "Web Developers Network",
-    "platform": "Telegram",
-    "category": "Web Development",
-    "memberCount": "64,000+ members",
-    "description": "Public channel providing updates on frontend, backend, browser standards, and dev tooling.",
-    "joinUrl": "https://t.me/webdev_hub",
+    "id": "notion-systems-second-brain-hub-discord-20",
+    "title": "Claude AI Second Brain Discord",
+    "platform": "Discord",
+    "category": "Claude",
+    "memberCount": "85,000+ members",
+    "description": "Using Claude Projects and Artifacts to organize document archives and execute deep research synthesis.",
+    "joinUrl": "https://discord.gg/anthropic",
     "tags": [
-      "webdev",
-      "frontend",
-      "telegram",
-      "tooling"
+      "claude",
+      "projects",
+      "synthesis",
+      "discord"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "notion-systems-second-brain-hub-reddit-30",
-    "title": "r/golang Backend Hub",
-    "platform": "Reddit",
-    "category": "Backend Engineering",
-    "memberCount": "250,000+ members",
-    "description": "Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.",
-    "joinUrl": "https://www.reddit.com/r/golang/",
+    "id": "notion-systems-second-brain-hub-telegram-21",
+    "title": "Python Scripts for Notion Automation",
+    "platform": "Telegram",
+    "category": "Scripts",
+    "memberCount": "85,000+ members",
+    "description": "Daily Python scripts using the official Notion API for automated database synchronization and backup.",
+    "joinUrl": "https://t.me/python_scripts",
     "tags": [
-      "golang",
-      "backend",
-      "concurrency",
+      "telegram",
+      "notion-api",
+      "python",
+      "scripts"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-discord-22",
+    "title": "Python Developers Official Discord",
+    "platform": "Discord",
+    "category": "Python",
+    "memberCount": "430,000+ members",
+    "description": "Real-time support with Python scripting, Notion SDK integrations, and automated schedulers.",
+    "joinUrl": "https://discord.gg/python",
+    "tags": [
+      "python",
+      "sdk",
+      "schedulers",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-telegram-23",
+    "title": "Web Developers Hub Telegram",
+    "platform": "Telegram",
+    "category": "Web Dev",
+    "memberCount": "48,000+ members",
+    "description": "Curated web developer news, browser productivity extensions, and workflow tips.",
+    "joinUrl": "https://t.me/webdev_hub",
+    "tags": [
+      "telegram",
+      "webdev",
+      "productivity"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-discord-24",
+    "title": "Tech Community Discord",
+    "platform": "Discord",
+    "category": "Tech",
+    "memberCount": "55,000+ members",
+    "description": "Discussions on software ergonomics, keyboard shortcuts, multi-monitor setups, and hardware.",
+    "joinUrl": "https://discord.gg/tech",
+    "tags": [
+      "tech",
+      "hardware",
+      "ergonomics",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-telegram-25",
+    "title": "TechCrunch Productivity SaaS Releases",
+    "platform": "Telegram",
+    "category": "News",
+    "memberCount": "65,000+ members",
+    "description": "Updates on enterprise collaboration platforms, AI copilot launches, and workplace software.",
+    "joinUrl": "https://t.me/techcrunch",
+    "tags": [
+      "telegram",
+      "saas",
+      "collaboration",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-reddit-26",
+    "title": "r/freelance Client Portals & Invoicing",
+    "platform": "Reddit",
+    "category": "Freelancing",
+    "memberCount": "440,000+ members",
+    "description": "Independent consultants using Notion and Airtable for client onboarding, contracts, and invoicing.",
+    "joinUrl": "https://www.reddit.com/r/freelance/",
+    "tags": [
+      "freelance",
+      "onboarding",
+      "contracts",
       "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-reddit-27",
+    "title": "r/workfromhome Async Workspace Setup",
+    "platform": "Reddit",
+    "category": "Remote",
+    "memberCount": "160,000+ members",
+    "description": "Remote office organization, async communication documentation, and digital workspace hygiene.",
+    "joinUrl": "https://www.reddit.com/r/workfromhome/",
+    "tags": [
+      "wfh",
+      "async",
+      "documentation",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-reddit-28",
+    "title": "r/remotework Remote Productivity Hub",
+    "platform": "Reddit",
+    "category": "Remote Work",
+    "memberCount": "180,000+ members",
+    "description": "Tools and techniques for staying focused, tracking async deliverables, and preventing burnout.",
+    "joinUrl": "https://www.reddit.com/r/remotework/",
+    "tags": [
+      "remotework",
+      "focus",
+      "async",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-forum-29",
+    "title": "Nomad List Remote Systems Forum",
+    "platform": "Forum",
+    "category": "Nomad",
+    "memberCount": "70,000+ members",
+    "description": "Global remote professionals sharing portable productivity setups, cloud backups, and systems.",
+    "joinUrl": "https://nomadlist.com",
+    "tags": [
+      "nomadlist",
+      "portable",
+      "systems",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-systems-second-brain-hub-telegram-30",
+    "title": "AI Insights Telegram Stream",
+    "platform": "Telegram",
+    "category": "AI News",
+    "memberCount": "55,000+ members",
+    "description": "Real-time updates on emerging personal AI assistants, local models, and automation integrations.",
+    "joinUrl": "https://t.me/ai_insights",
+    "tags": [
+      "telegram",
+      "ai",
+      "assistants",
+      "news"
     ],
     "verified": true,
     "featured": false
