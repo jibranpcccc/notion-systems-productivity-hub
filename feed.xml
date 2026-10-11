@@ -4,10 +4,17 @@
     <title>Notion Systems &amp; Second Brain Hub</title>
     <link>https://notion-systems-productivity-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:02:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:02:57 GMT</lastBuildDate>
     <atom:link href="https://notion-systems-productivity-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
+      <link>https://www.reddit.com/r/linux/</link>
+      <guid isPermaLink="false">https://notion-systems-productivity-hub.netlify.app/#notion-systems-productivity-hub-reddit-20261011-1-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 06:02:57 GMT</pubDate>
+      <description>Newly verified community added to Notion Systems &amp; Second Brain Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
       <link>https://www.reddit.com/r/science/</link>
       <guid isPermaLink="false">https://notion-systems-productivity-hub.netlify.app/#notion-systems-productivity-hub-reddit-20261010-1-2026-10-10</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://notion-systems-productivity-hub.netlify.app/#notion-systems-productivity-hub-discord-20260913-1-2026-09-13</guid>
       <pubDate>Sun, 13 Sep 2026 08:31:22 GMT</pubDate>
       <description>Newly verified community added to Notion Systems &amp; Second Brain Hub: Official community Discord server for plugin developers, theme creators, and second brain builders.</description>
-    </item>
-<item>
-      <title>Notion Systems &amp; Second Brain Hub Initial Release</title>
-      <link>https://notion-systems-productivity-hub.netlify.app/</link>
-      <pubDate>Thu, 10 Sep 2026 06:49:33 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
