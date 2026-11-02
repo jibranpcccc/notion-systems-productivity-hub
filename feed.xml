@@ -4,10 +4,17 @@
     <title>Notion Systems &amp; Second Brain Hub</title>
     <link>https://notion-systems-productivity-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 01 Nov 2026 09:09:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:02:58 GMT</lastBuildDate>
     <atom:link href="https://notion-systems-productivity-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                            <item>
+                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
+      <link>https://www.reddit.com/r/linux/</link>
+      <guid isPermaLink="false">https://notion-systems-productivity-hub.netlify.app/#notion-systems-productivity-hub-reddit-20261011-1-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 06:02:58 GMT</pubDate>
+      <description>Newly verified community added to Notion Systems &amp; Second Brain Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
       <link>https://www.reddit.com/r/linux/</link>
       <guid isPermaLink="false">https://notion-systems-productivity-hub.netlify.app/#notion-systems-productivity-hub-reddit-20261011-1-2026-11-01</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://notion-systems-productivity-hub.netlify.app/#notion-systems-productivity-hub-github-20261003-1-2026-10-03</guid>
       <pubDate>Sat, 03 Oct 2026 06:27:11 GMT</pubDate>
       <description>Newly verified community added to Notion Systems &amp; Second Brain Hub: Official GitHub Discussions board for the Rust programming language compiler, RFCs, and tools.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Tailwind CSS Discord (Discord)</title>
-      <link>https://discord.gg/tailwind</link>
-      <guid isPermaLink="false">https://notion-systems-productivity-hub.netlify.app/#notion-systems-productivity-hub-discord-20261002-1-2026-10-02</guid>
-      <pubDate>Fri, 02 Oct 2026 06:03:10 GMT</pubDate>
-      <description>Newly verified community added to Notion Systems &amp; Second Brain Hub: Official community for Tailwind CSS utility-first design, component architectures, and responsive layout styling.</description>
     </item>
   </channel>
 </rss>
